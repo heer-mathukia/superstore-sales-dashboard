@@ -14,7 +14,9 @@ product categories, profit and quantity.
 
 ## What I found
 Technology was the top category with 4.7M in sales — about 37% of total revenue.
+
 Total sales across all regions came to 12.64M with a profit of 1.47M.
+
 Sales grew steadily from 2011 to 2014 across most regions.
 
 ## What the dashboard includes
